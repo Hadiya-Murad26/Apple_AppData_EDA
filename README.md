@@ -7,11 +7,11 @@ In this project, I explored and analyzed a massive dataset containing informatio
 Welcome to the Apple App Store Data Analysis project! In this repository, we explore a massive dataset containing information about apps available on the Apple App Store. Our journey takes us through data cleaning, exploratory analysis, and insightful visualizations.
 
 # <u>Project Goals</u>
-<u>Data Cleaning:</u> Our primary focus was on ensuring high-quality data. We meticulously cleaned the dataset, removing duplicates, handling missing values, and ensuring consistency. Just like a skilled orchard keeper, we wanted our data to be crisp and ready for analysis.
+**Data Cleaning:** Our primary focus was on ensuring high-quality data. We meticulously cleaned the dataset, removing duplicates, handling missing values, and ensuring consistency. Just like a skilled orchard keeper, we wanted our data to be crisp and ready for analysis.
 
-<u>Exploratory Data Analysis (EDA):</u> Armed with Python and pandas, we sliced and diced the data. We examined trends, distributions, and correlations. Which app categories flourished? Did ratings impact downloads? Were there any unexpected outliers? The answers lay buried in the rows and columns.
+**Exploratory Data Analysis (EDA):** Armed with Python and pandas, we sliced and diced the data. We examined trends, distributions, and correlations. Which app categories flourished? Did ratings impact downloads? Were there any unexpected outliers? The answers lay buried in the rows and columns.
 
-<u>Insights and Visualizations:</u> We crafted beautiful visualizations—bar charts, scatter plots, and heatmaps—to showcase our findings. Imagine a pie chart with slices of app genres or a scatter plot revealing the relationship between user ratings and app size. These visuals told stories that mere numbers couldn't convey.
+**Insights and Visualizations:** We crafted beautiful visualizations—bar charts, scatter plots, and heatmaps—to showcase our findings. Imagine a pie chart with slices of app genres or a scatter plot revealing the relationship between user ratings and app size. These visuals told stories that mere numbers couldn't convey.
 
 # <u>Key Findings</u>
 **Top Categories:** Entertainment, productivity, and games dominated the App Store. Users craved both fun and efficiency.
