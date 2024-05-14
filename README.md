@@ -17,8 +17,8 @@ Welcome to the Apple App Store Data Analysis project! In this repository, we exp
 <u>Top Categories:</u> Entertainment, productivity, and games dominated the App Store. Users craved both fun and efficiency.
 <u>Ratings vs. Downloads:</u> High ratings didn't always translate to high downloads. Some hidden gems had modest ratings but a loyal user base.
 <u>App Size Matters:<u> Users preferred lightweight apps. Bloatware? Not on their devices!
----
+
 The GitHub Repository
 As we push our code to GitHub, we invite fellow data enthusiasts to wander this orchard. Fork, explore, and perhaps plant your own data seeds. Let's keep the ecosystem thriving!
----
+
 Feel free to adapt this description to your liking, and may your GitHub repository bear fruit! 🚀📊🌟
