@@ -14,9 +14,9 @@ Welcome to the Apple App Store Data Analysis project! In this repository, we exp
 <u>Insights and Visualizations:</u> We crafted beautiful visualizations—bar charts, scatter plots, and heatmaps—to showcase our findings. Imagine a pie chart with slices of app genres or a scatter plot revealing the relationship between user ratings and app size. These visuals told stories that mere numbers couldn't convey.
 
 # <u>Key Findings</u>
-<u>Top Categories:</u> Entertainment, productivity, and games dominated the App Store. Users craved both fun and efficiency.
-<u>Ratings vs. Downloads:</u> High ratings didn't always translate to high downloads. Some hidden gems had modest ratings but a loyal user base.
-<u>App Size Matters:<u> Users preferred lightweight apps. Bloatware? Not on their devices!
+**Top Categories:** Entertainment, productivity, and games dominated the App Store. Users craved both fun and efficiency.
+**Ratings vs. Downloads:** High ratings didn't always translate to high downloads. Some hidden gems had modest ratings but a loyal user base.
+**App Size Matters:** Users preferred lightweight apps. Bloatware? Not on their devices!
 
 The GitHub Repository
 As we push our code to GitHub, we invite fellow data enthusiasts to wander this orchard. Fork, explore, and perhaps plant your own data seeds. Let's keep the ecosystem thriving!
