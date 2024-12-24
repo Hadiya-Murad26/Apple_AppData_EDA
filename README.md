@@ -2,7 +2,7 @@
 In this project, I explored and analyzed a massive dataset containing information about apps available on the Apple App Store. With over 1.2 million rows of data, this endeavor was like diving into a digital orchard, searching for hidden gems among the branches of app categories, ratings, and user reviews.
 
 # <u>Author</u> : Hadiya Murad Hadi
-# <u>contact</u> : fa23-bds-012@isbstudent.comsats.edu.pk
+# <u>Contact</u> : hadiyamurad96@gmail.com
 # Overview
 Welcome to the Apple App Store Data Analysis project! In this repository, we explore a massive dataset containing information about apps available on the Apple App Store. Our journey takes us through data cleaning, exploratory analysis, and insightful visualizations.
 
